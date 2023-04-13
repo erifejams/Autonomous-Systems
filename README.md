@@ -6,22 +6,23 @@ network system. We have a system of computers that are connected to many servers
 system information is sent and received through these connections.
 
 <br>
-
 Link Analysis is used to help understand the relationship between our system which is made up
 of computers and servers. In this report, we formulate questions and answer these questions as
 we go through steps to preprocess our data and preform link analyses. We learn more about the
 relationship between the server and computer through the use of centralities in link analyses and
 displaying these graphs.
 
-# Summerization Image of our dataset:
+
+# Summerization Image of the dataset:
 ![Server Connection](https://user-images.githubusercontent.com/44726422/231736691-a4a1a455-31ce-45dc-8eaf-5b2bf67d1ac1.png)
 
+<br>
 
-# Graph Centrality Produced
+# Centrality Graphs Produced
 Graph display of our computer network system from evaluated from the dataset:<br>
 ![Graph1](https://user-images.githubusercontent.com/44726422/231736663-645a2463-9d1f-456b-82c7-4b880439a404.png)
 
-We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the <b> Report.pdf <\b> to see a more indeph explanation of our data preprocesssing, analysis and link analysis steps.<br>
+We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the <b> Report.pdf <\b> to see a more indepth explanation of our data preprocesssing, analysis and link analysis steps.<br>
 
 1. Closeness Centrality<br>
 ![closeG](https://user-images.githubusercontent.com/44726422/231739239-7ab6be55-611c-47a9-827d-be47d9ae92b9.png)
