@@ -19,34 +19,34 @@ displaying these graphs.
 <br>
 
 # Centrality Graphs Produced
-Graph display of our computer network system from evaluated from the dataset:<br>
+Graph display of our computer network system, evaluated from the dataset:<br>
 ![Graph1](https://user-images.githubusercontent.com/44726422/231736663-645a2463-9d1f-456b-82c7-4b880439a404.png)
 
-We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the <b> Report.pdf <\b> to see a more indepth explanation of our data preprocesssing, analysis and link analysis steps.<br>
+We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the ** Report.pdf ** to see a more indepth explanation of our data preprocesssing, analysis and link analysis steps.<br>
 
 1. Closeness Centrality<br>
 ![closeG](https://user-images.githubusercontent.com/44726422/231739239-7ab6be55-611c-47a9-827d-be47d9ae92b9.png)
 
   
-  
-
+<br>
 2. Degree Centrality<br>
 
   ![degreeG](https://user-images.githubusercontent.com/44726422/231739267-543da6d6-86f1-49da-81da-9129aa7a4948.png)
 
-  
 
+<br>
 3. Page Rank Centrality<br>
 
   ![pageRankG](https://user-images.githubusercontent.com/44726422/231739502-9de4588b-e2ce-4be6-8b80-3578d0162e3f.png)
 
   
-
+<br>
 4. Betweennesss Centrality<br>
 
 ![betweenG](https://user-images.githubusercontent.com/44726422/231739521-224220ad-24c0-4d8a-bed6-e3dc2631072b.png)
 
 
+<br>
 This is the correlation between the centralities in our dataset:<br>
   
 ![cenMeasure](https://user-images.githubusercontent.com/44726422/231737881-0c8ba8f9-27a1-4052-95e6-b970debfbd0a.png)
