@@ -13,7 +13,8 @@ relationship between the server and computer through the use of centralities in 
 displaying these graphs.
 
 <br>
-# Summerization Image of the dataset:
+# Summerization Image of the dataset:<br>
+
 ![Server Connection](https://user-images.githubusercontent.com/44726422/231736691-a4a1a455-31ce-45dc-8eaf-5b2bf67d1ac1.png)
 
 <br>
