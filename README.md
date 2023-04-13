@@ -18,7 +18,7 @@ displaying these graphs.
 
 ![Server Connection](https://user-images.githubusercontent.com/44726422/231736691-a4a1a455-31ce-45dc-8eaf-5b2bf67d1ac1.png)
 
-<br>
+
 
 # Centrality Graphs Produced
 Graph display of our computer network system, evaluated from the dataset:<br>
@@ -30,28 +30,27 @@ We compared and evaluated different centralities for our dataset, to understand 
 
 **1. Closeness Centrality**
 
-![closeG](https://user-images.githubusercontent.com/44726422/231739239-7ab6be55-611c-47a9-827d-be47d9ae92b9.png)
+
+![closeG](https://user-images.githubusercontent.com/44726422/231741675-24abf667-4d47-4b4c-b4cb-9dffc0881ec9.png)
 
   
-<br>
+
 **2. Degree Centrality**
 
-  ![degreeG](https://user-images.githubusercontent.com/44726422/231739267-543da6d6-86f1-49da-81da-9129aa7a4948.png)
+![degreeG](https://user-images.githubusercontent.com/44726422/231741691-a3545ce0-4080-42dc-8ddb-b04cec77f7af.png)
 
 
-<br>
-**3. Page Rank Centrality** <br>
 
-  ![pageRankG](https://user-images.githubusercontent.com/44726422/231739502-9de4588b-e2ce-4be6-8b80-3578d0162e3f.png)
+**3. Page Rank Centrality** 
 
-  
-<br>
+  ![pageRankG](https://user-images.githubusercontent.com/44726422/231741729-f8fe59f5-bd03-4bdd-a1ea-17c6dc72cc34.png)
+
+
 **4. Betweennesss Centrality**
 
-![betweenG](https://user-images.githubusercontent.com/44726422/231739521-224220ad-24c0-4d8a-bed6-e3dc2631072b.png)
 
+<br>![betweenG](https://user-images.githubusercontent.com/44726422/231741637-8ca9d526-e491-4d02-9798-b2e70aa2dbfc.png)
 
-<br>
 This is the correlation between the centralities in our dataset:<br>
   
 ![cenMeasure](https://user-images.githubusercontent.com/44726422/231737881-0c8ba8f9-27a1-4052-95e6-b970debfbd0a.png)
