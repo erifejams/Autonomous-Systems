@@ -13,7 +13,8 @@ relationship between the server and computer through the use of centralities in 
 displaying these graphs.
 
 <br>
-# Summerization Image of the dataset:<br>
+# Summerization Image of the dataset:
+<br>
 
 ![Server Connection](https://user-images.githubusercontent.com/44726422/231736691-a4a1a455-31ce-45dc-8eaf-5b2bf67d1ac1.png)
 
@@ -21,12 +22,14 @@ displaying these graphs.
 
 # Centrality Graphs Produced
 Graph display of our computer network system, evaluated from the dataset:<br>
+
 ![Graph1](https://user-images.githubusercontent.com/44726422/231736663-645a2463-9d1f-456b-82c7-4b880439a404.png)
 
 We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the **Report.pdf** to see a more indepth explanation of our data preprocesssing, analysis and link analysis steps.<br>
 
 
 **1. Closeness Centrality**
+
 ![closeG](https://user-images.githubusercontent.com/44726422/231739239-7ab6be55-611c-47a9-827d-be47d9ae92b9.png)
 
   
