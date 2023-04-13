@@ -4,7 +4,9 @@ that follows predefined policies on how information is sent and received within 
 network. This relates to our project because our dataset gives information about a computer
 network system. We have a system of computers that are connected to many servers and in this
 system information is sent and received through these connections.
+
 <br>
+
 Link Analysis is used to help understand the relationship between our system which is made up
 of computers and servers. In this report, we formulate questions and answer these questions as
 we go through steps to preprocess our data and preform link analyses. We learn more about the
@@ -18,13 +20,19 @@ Summerization Image of our dataset:
 Graph display of our computer network system from evaluated from the dataset:<br>
 ![Graph1](https://user-images.githubusercontent.com/44726422/231736663-645a2463-9d1f-456b-82c7-4b880439a404.png)
 
-We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the <b> Report.pdf <b> to see a more indeph explanation of our data preprocesssing, analysis and link analysis steps.<br>
+We compared and evaluated different centralities for our dataset, to understand more the relationship between computers and servers. Refer to the <b> Report.pdf <\b> to see a more indeph explanation of our data preprocesssing, analysis and link analysis steps.<br>
 
 1. Closeness Centrality<br>
-![closeG](https://user-images.githubusercontent.com/44726422/231737117-b971b94d-7906-4158-8ba8-c1b8c516d611.png)
+![closeG](https://user-images.githubusercontent.com/44726422/231739239-7ab6be55-611c-47a9-827d-be47d9ae92b9.png)
+
+  
+  
 
 2. Degree Centrality<br>
-![degreeG](https://user-images.githubusercontent.com/44726422/231737548-fffc1dea-da7c-4e03-8ae3-3f6435012962.png)
+
+  ![degreeG](https://user-images.githubusercontent.com/44726422/231739267-543da6d6-86f1-49da-81da-9129aa7a4948.png)
+
+  
 
 3. Page Rank Centrality<br>
 ![pageRankG](https://user-images.githubusercontent.com/44726422/231737572-dfc8011c-372b-4bce-9d6c-0c6c2a15a64f.png)
